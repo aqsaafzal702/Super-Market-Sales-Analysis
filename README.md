@@ -6,7 +6,7 @@ A detailed analysis of historical sales data from three different supermarket br
 ## Dataset
 - **Source**: [Kaggle](https://www.kaggle.com/datasets)
 - **Description**: Historical sales data from three supermarket branches, including attributes such as invoice ID, branch, city, customer type, gender, product line, unit price, quantity, tax, total, date, time, payment, COGS, gross margin percentage, and gross income.
-
+ 
 ## Objectives
 1. Data Analysis and Cleaning
 2. Exploratory Data Analysis (EDA)
